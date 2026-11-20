@@ -1,4 +1,4 @@
-ultralytics
-opencv-python-headless==4.10.0.84
 streamlit
-numpy==1.26.4
+ultralytics
+numpy
+opencv-python-headless

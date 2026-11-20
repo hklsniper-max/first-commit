@@ -166,3 +166,4 @@ finally:
     speech_thread.join(timeout=1.0)
     camera.release()
     cv2.destroyAllWindows()
+#.
